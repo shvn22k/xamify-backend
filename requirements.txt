@@ -4,4 +4,4 @@ python-dotenv
 packaging
 fastapi
 uvicorn
-pdfminer
+pdfminer.six
